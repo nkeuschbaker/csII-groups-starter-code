@@ -1,3 +1,11 @@
+"""
+Generated with Brave Leo AI with Llama 3.1 8B
+    Prompt 1: write starter code with TO DO comments for a Java program that groups students randomly
+    Prompt 2: provide a sample solution
+    Prompt 3: I want to be able to call the function with an int parameter to choose the size of the groups
+    Prompt 4: write an updated skeleton with TO DO comments
+"""
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
